@@ -1,2 +1,3 @@
-# test
-this is test resository for yang's video.
+# Test Repository
+
+This is a test resository for Yang's video.
